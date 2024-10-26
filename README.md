@@ -10,7 +10,6 @@ I'm a cybersecurity student passionate about ethical hacking, and protecting dat
 ### 📚 Currently Learning
 - Ethical hacking from cisco
 - bash , powershell
-- 
 
 ### 🧩 Goals
 - Obtain EJPT , OSCP
