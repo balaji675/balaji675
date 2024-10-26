@@ -4,7 +4,7 @@ I'm a cybersecurity student passionate about ethical hacking, and protecting dat
 
 # 🛠 Skills & Tools
 - **Tools:** Wireshark, Burp Suite, Nmap, Metasploit , Nessus
-- **Skills** Linux
+- **Skills:** Linux
 - **Areas of Focus:** Vulnerability Assessment, Pentesting , Security Analyst
 
 ### 📚 Currently Learning
