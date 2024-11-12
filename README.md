@@ -3,16 +3,16 @@
 I'm a cybersecurity student passionate about ethical hacking, and protecting data. Currently improving my skills in various areas of cybersecurity, I enjoy Learning
 
 # 🛠 Skills & Tools
-- **Tools:** Wireshark, Burp Suite, Nmap, Metasploit , Nessus
-- **Skills:** Linux
+- **Tools:** Wireshark, Nmap, Metasploit , Nessus
+- **Skills:** Linux , Networking
 - **Areas of Focus:** Vulnerability Assessment, Pentesting , Security Analyst
 
 ### 📚 Currently Learning
-- Ethical hacking from cisco
-- bash , powershell
+- Burpsuite - Portswigger Academy 
+- bash
 
 ### 🧩 Goals
-- Obtain EJPT , OSCP
+- Obtain OSCP
 - Contribute to an open-source security project
 
 ### 📫 Connect with Me
