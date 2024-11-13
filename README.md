@@ -5,14 +5,13 @@ I'm a cybersecurity student passionate about ethical hacking, and protecting dat
 # 🛠 Skills & Tools
 - **Tools:** Wireshark, Nmap, Metasploit , Nessus
 - **Skills:** Linux , Networking
-- **Areas of Focus:** Vulnerability Assessment, Pentesting , Security Analyst
+- **Areas of Focus:** Security Operations Centre Analyst , Bounty Hunter
 
 ### 📚 Currently Learning
 - Burpsuite - Portswigger Academy 
 - bash
 
 ### 🧩 Goals
-- Obtain OSCP
 - Contribute to an open-source security project
 
 ### 📫 Connect with Me
