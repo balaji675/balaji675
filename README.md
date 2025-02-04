@@ -36,4 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balaji675&" alt="balaji675" /></p>
 
+<img src="https://raw.githubusercontent.com/balaji675/balaji675/output/snake.svg" alt="Snake animation" />
 
+###
