@@ -14,14 +14,6 @@
 <a href="https://medium.com/@balaji234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@balaji234" height="30" width="40" /></a>
 </p>
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/balaji675/count.svg?"  />
-</div>
-
-<br clear="both">
-
 <div align="left">
   <a href="https://tryhackme.com/r/p/BalajiR" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
