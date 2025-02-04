@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji</h1>
-<h3 align="center">A Passionate Cybersecurity Enthusiast</h3>
+<h3 align="center">A Cybersecurity Enthusiast</h3>
 
 <br clear="both">
 
