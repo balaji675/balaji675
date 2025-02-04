@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/0xb1013961" target="blank"><img src="https://img.shields.io/twitter/follow/0xb1013961?logo=twitter&style=for-the-badge" alt="0xb1013961" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0xb1013961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xb1013961" height="30" width="40" /></a>
