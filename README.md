@@ -7,6 +7,9 @@
   <img src="https://profile-counter.glitch.me/balaji675/count.svg?"  />
 </div>
 
+![Visitors](https://img.shields.io/badge/dynamic/json?label=Visitors&query=%24.visitors&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fbalaji675%2Fgithub)
+
+
 <br clear="both">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaji675" alt="balaji675" /></a> </p>
