@@ -11,10 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/0xb1013961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xb1013961" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imbalaji-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imbalaji-r" height="30" width="40" /></a>
-<a href="https://medium.com/@balaji234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@balaji234" height="30" width="40" /></a>
-</p>
-
-<div align="left">
   <a href="https://tryhackme.com/r/p/BalajiR" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
@@ -24,7 +20,8 @@
   <a href="www.linkedin.com/in/imbalaji-r" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</div>
+</p>
+<div align="left">
 
 
 <br clear="both">
