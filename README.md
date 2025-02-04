@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji</h1>
-<h3 align="center">A passionate Cybersec Enthusiast</h3>
+<h3 align="center">A Passionate Cybersecurity Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji675&label=Profile%20views&color=0e75b6&style=flat" alt="balaji675" /> </p>
 
