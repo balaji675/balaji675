@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Balaji</h1>
 <h3 align="center">A Passionate Cybersecurity Enthusiast</h3>
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/balaji675/count.svg?"  />
+</div>
+
+<br clear="both">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji675&label=Profile%20views&color=0e75b6&style=flat" alt="balaji675" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaji675" alt="balaji675" /></a> </p>
@@ -22,15 +30,6 @@
   </a>
 </p>
 <div align="left">
-
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/balaji675/count.svg?"  />
-</div>
-
-<br clear="both">
 
 
 
