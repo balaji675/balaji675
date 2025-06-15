@@ -13,7 +13,7 @@
 
 <h3 align="left">Follow my Journey:</h3>
 <p align="left">
-  <a href="https://tryhackme.com/r/p/BalajiR" target="_blank">
+  <a href="https://tryhackme.com/p/imbalajir" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
   <a href="https://medium.com/@balaji234" target="_blank">
