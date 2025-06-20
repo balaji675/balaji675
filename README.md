@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaji675" alt="balaji675" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaji675" /></a> </p>
 
 <h3 align="left">Follow my Journey:</h3>
 <p align="left">
